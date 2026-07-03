@@ -1,0 +1,6 @@
+{
+  "name": "Invitación Baby Shower",
+  "description": "Una hermosa invitación digital interactiva de Minnie Mouse para el Baby Shower de Emma en Quilmes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
